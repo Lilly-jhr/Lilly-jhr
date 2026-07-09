@@ -15,7 +15,7 @@
 
 ### 🧠 What I do
 
-I turn fuzzy client asks into automation and AI agents that actually ship. Software Engineering student at Addis Ababa Science and Technology University, but most of my real work happens in production - wiring up LLMs, building workflows, and moving fast with **Claude Code**.
+I turn fuzzy client asks into automation and AI agents that actually ship. Software engineering graduate from Addis Ababa Science and Technology University, and most of my real work happens in production - wiring up LLMs, building workflows, and moving fast with **Claude Code**.
 
 Consultant brain, engineer hands. I ask the right questions upfront so I don't build the wrong thing.
 
